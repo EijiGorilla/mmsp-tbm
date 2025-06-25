@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmmsp_tbm=self.webpackChunkmmsp_tbm||[]).push([[15273],{15273:(e,s,t)=>{t.d(s,{NonSimpleResult:()=>m});class m{assign(e){this.m_reason=e.m_reason,this.m_vertexIndex1=e.m_vertexIndex1,this.m_vertexIndex2=e.m_vertexIndex2}constructor(e,s,t){void 0!==e?(this.m_reason=e,this.m_vertexIndex1=s,this.m_vertexIndex2=t):(this.m_reason=0,this.m_vertexIndex1=-1,this.m_vertexIndex2=-2)}clear(){this.m_reason=0,this.m_vertexIndex1=-1,this.m_vertexIndex2=-1}}}}]);
+//# sourceMappingURL=15273.91ac4e33.chunk.js.map
